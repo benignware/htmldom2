@@ -1,6 +1,6 @@
 {
   "name": "htmldom2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Parse html on top of xmldom and htmlparser2",
   "main": "index.js",
   "scripts": {
