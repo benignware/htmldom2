@@ -6,7 +6,11 @@
   "scripts": {
     "test": "mocha test/*.test.js"
   },
-  "author": "",
+  "author": {
+    "name": "Rafael Nowrotek",
+    "email": "mail@benignware.com",
+    "url": "http://benignware.com/"
+  },
   "license": "ISC",
   "dependencies": {
     "htmlparser2": "^3.9.2",
