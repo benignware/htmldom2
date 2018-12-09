@@ -1,0 +1,19 @@
+{
+  "name": "@benignware/htmldom2",
+  "version": "0.0.1",
+  "description": "Parse html on top of xmldom and htmlparser2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "query-selector": "^1.0.9",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
