@@ -18,6 +18,6 @@ const source = `
   </body>
 </html>
 `;
-const
+const { DOMParser } = require('htmldom2');
 const document = new DOMParser().parseFromString(source, 'text/html');
 ```
