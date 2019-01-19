@@ -18,5 +18,6 @@ const source = `
   </body>
 </html>
 `;
-const document = DOMParser.parseFromString(source, 'text/html');
+const
+const document = new DOMParser().parseFromString(source, 'text/html');
 ```
